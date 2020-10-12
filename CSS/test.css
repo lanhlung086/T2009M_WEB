@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    font-size: 11px;
+    line-height: 1.5;
+    background-color: black;
+}
+#block{
+    margin: 0px 250px;
+    background-color: #f2f2f2;
+}
+div{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top:-5px;
+    margin-bottom: -5px;
+}
+#th1{
+    font-size: 9px;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+hr{
+    color: mediumvioletred;
+    margin-bottom: 1px;
+}
+.title{
+    color: mediumvioletred;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: mediumvioletred underline;
+    font-size: 11px;
+}
+.content{
+    margin-left: 25px;
+}
+.content2{
+    margin-left: 20px;
+}
