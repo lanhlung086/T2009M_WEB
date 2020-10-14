@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Hind', sans-serif;
+    background-image: url("../imgs/backgruond.jpg");
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#block{
+    background-color: white;
+    width: 1000px;
+    height: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    box-shadow: 0 0 10px #aaaaaa;
+}
+#block1{
+    width: 1000px;
+    height: 200px;
+    background-color: #c6cdd4;
+}
+#block2{
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 290px;
+    height: 1040px;
+    background-color: #f2f2f2;
+    margin-left: 30px;
+    margin-top: -140px
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+#block2_1{
+    font-size: 25px;
+    margin-left: 30px;
+}
+#block2_2{
+    margin-left: 30px;
+}
+#block2_3{
+    font-size: 25px;
+    margin-left: 30px;
+}
+#block2_4{
+    margin-left: 30px;
+}
+#block2_5{
+    font-size: 25px;
+    margin-left: 30px;
+}
+#block2_6{
+    margin-left: 30px;
+}
+.hr{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+#block3{
+    width: 650px;
+    height: 700px;
+    float: right;
+    float: top;
+    margin-top: -1040px;
+    text-align: justify;
+}
+#title1{
+    font-size: 50px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+#title2{
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+#title3{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+#content1{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 1px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+hr{
+    border: 1px solid #232323;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#title4{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#content2_1{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 1px;
+    padding-right: 30px;
+    margin-bottom: -10px;
+}
+#ul1{
+    font-size: 14px;
+    font-weight: 500;
+}
+#content2_2{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 1px;
+    padding-right: 30px;
+    margin-bottom: -10px;
+}
+#ul2{
+    font-size: 14px;
+    font-weight: 500;
+}
