@@ -24,19 +24,18 @@ body{
     background-color: #c6cdd4;
 }
 #block2{
-    border: 1px solid black;
     box-sizing: border-box;
     width: 290px;
     height: 1040px;
     background-color: #f2f2f2;
     margin-left: 30px;
-    margin-top: -140px
+    margin-top: -140px;
+    padding-top: 20px;
 }
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
     border-radius: 100%;
 }
 #block2_1{
