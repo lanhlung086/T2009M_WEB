@@ -10,50 +10,50 @@ div{
 
 }
 .block{
-    width: 1200px;
-    height: 1250px;
+    width: 840px;
+    height: 875px;
     background-color: #f2f2f2;
-    box-shadow: 0 0 10px #aaaaaa;
+    box-shadow: 0 0 7px #aaaaaa;
     margin-right: auto;
     margin-left: auto;
-    padding-top: 20px;
+    padding-top: 14px;
 }
 #title{
-    width: 960px;
+    width: 672px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
     font-family: 'Roboto Slab', serif;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 900;
     text-align: center;
-    box-shadow: 0 0 10px #aaaaaa;
+    box-shadow: 0 0 7px #aaaaaa;
 }
 span{
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 900;
 }
 .block1{
     font-family: 'Roboto', sans-serif;
     background-color: white;
-    width: 250px;
-    height: 500px;
-    box-shadow: 0 0 10px #aaaaaa;
-    margin: 50px 20px;
+    width: 175px;
+    height: 350px;
+    box-shadow: 0 0 7px #aaaaaa;
+    margin: 35px 14px;
     float: left;
     position: relative;
 }
 .block2{
-    width: 250px;
-    height: 300px;
+    width: 175px;
+    height: 210px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .block3{
-    width: 250px;
-    height: 140px;
+    width: 175px;
+    height: 98px;
     text-align: center;
     line-height: 1.25;
     box-sizing: border-box;
@@ -63,28 +63,29 @@ span{
     color: white;
     float: bottom;
     text-align: center;
-    width: 250px;
-    height: 50px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    width: 175px;
+    height: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: absolute;
-    top: 450px;
+    top: 315px;
     font-weight: 600;
     letter-spacing: 1px;
 }
 .p1{
     font-family: 'Roboto Slab', serif;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 14px;
 }
 .p2{
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
+    font-size: 11px;
 }
 .p3{
     font-family: 'Roboto Slab', serif;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 14px;
 }
 .num1{
     background-image: url("../imgs/pic1.png");
