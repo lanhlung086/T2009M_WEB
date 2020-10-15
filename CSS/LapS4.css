@@ -64,13 +64,14 @@ span{
     float: bottom;
     text-align: center;
     width: 175px;
-    height: 35px;
+    height: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
     position: absolute;
-    top: 315px;
-    font-weight: 600;
+    top: 320px;
+    font-weight: 400;
     letter-spacing: 1px;
+    font-size: 10px;
 }
 .p1{
     font-family: 'Roboto Slab', serif;
