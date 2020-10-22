@@ -11,10 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692359c-bb32-4f19-b78b-2b912c1588d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/LapS6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/LapS7.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/demobootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laps6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LapS7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Ses7_Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/b01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/logo-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,7 +53,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
+      <recent name="$PROJECT_DIR$/libs/Bootstrap 3.4.1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/CSS" />
-      <recent name="D:\WebStromNew\media" />
-      <recent name="D:\WebStromNew\audio" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +85,7 @@
       <workItem from="1602132683896" duration="436000" />
       <workItem from="1602133130823" duration="153000" />
       <workItem from="1602148565248" duration="3862000" />
-      <workItem from="1603334430372" duration="390000" />
+      <workItem from="1603334430372" duration="4146000" />
     </task>
     <task id="LOCAL-00001" summary="up code demo">
       <created>1602133170715</created>
@@ -83,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602133170715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="put">
+      <created>1603335100616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603335100616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,16 +121,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up code demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="up code demo" />
+    <MESSAGE value="put" />
+    <option name="LAST_COMMIT_MESSAGE" value="put" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1602133179425">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603334713640">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.807@0.23.1440.807" timestamp="1603334713640" />
+    <state x="262" y="113" key="Vcs.Push.Dialog.v2" timestamp="1603335110068">
+      <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602133179425" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602149115397">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="262" y="113" key="Vcs.Push.Dialog.v2/0.23.1440.807@0.23.1440.807" timestamp="1603335110068" />
+    <state x="858" y="23" width="537" height="788" key="dock-window-1" timestamp="1603335145372">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="858" y="23" width="537" height="788" key="dock-window-1/0.23.1440.807@0.23.1440.807" timestamp="1603335145372" />
+    <state x="0" y="0" width="1440" height="900" key="dock-window-2" timestamp="1603336778140">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" key="dock-window-2/0.23.1440.807@0.23.1440.807" timestamp="1603336778140" />
+    <state x="341" y="24" width="756" height="805" key="search.everywhere.popup" timestamp="1603339350287">
+      <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602149115397" />
+    <state x="341" y="24" width="756" height="805" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1603339350287" />
   </component>
 </project>
