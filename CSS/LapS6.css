@@ -264,18 +264,21 @@ input:focus{
     font-size: 18px;
     color: white;
 }
+.list-contact ul{
+    margin: 25px 0;
+}
 .list-contact_icon{
     list-style: none;
     color: white;
     margin: 25px 0;
-    display: inline-block;
 }
 .list-contact_icon li{
-    float: left;
     padding-right: 33px;
+    display: inline-block;
 }
 .button-booking{
     background-color: #0f0f0f;
     border: 1px solid #fff;
     padding: 15px 35px;
+    display: inline-block;
 }
