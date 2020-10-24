@@ -11,46 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e692359c-bb32-4f19-b78b-2b912c1588d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/LapS7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Pro5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/demo_fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo_fontawesome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LapS7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/fontawesome_5.15.1/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/LapS6.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/LapS6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laps6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Laps6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Rhymastic - Yêu 5 Remix.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Yeu-5-Hoaprox-Remix-Rhymastic-Hoaprox.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +80,8 @@
       <workItem from="1603415043364" duration="1675000" />
       <workItem from="1603420839671" duration="5423000" />
       <workItem from="1603473093564" duration="5141000" />
-      <workItem from="1603503621289" duration="944000" />
+      <workItem from="1603503621289" duration="1902000" />
+      <workItem from="1603510449328" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="up code demo">
       <created>1602133170715</created>
@@ -141,11 +104,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603339827351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="submit">
+      <created>1603506496690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603506496690</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update css lap6">
+      <created>1603511461982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603511461982</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -163,18 +143,21 @@
     <MESSAGE value="up code demo" />
     <MESSAGE value="put" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="submit" />
+    <MESSAGE value="update css lap6" />
+    <option name="LAST_COMMIT_MESSAGE" value="update css lap6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603341753315">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="458" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.807@0.23.1440.807" timestamp="1603341753315" />
-    <state x="262" y="113" key="Vcs.Push.Dialog.v2" timestamp="1603339832101">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state x="262" y="114" key="Vcs.Push.Dialog.v2" timestamp="1603511470293">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602133179425" />
     <state x="262" y="113" key="Vcs.Push.Dialog.v2/0.23.1440.807@0.23.1440.807" timestamp="1603339832101" />
+    <state x="262" y="114" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1603511470293" />
     <state x="858" y="23" width="537" height="788" key="dock-window-1" timestamp="1603335145372">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
