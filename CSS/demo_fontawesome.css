@@ -1,0 +1,12 @@
+.top-links li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+.top-links i{
+    font-size: 50px;
+    transition: color 300ms;
+}
+.top-links i:hover{
+    color: red;
+}

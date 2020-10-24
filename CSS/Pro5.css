@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+.section{
+    background-image: url("../imgs/wood-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -15,7 +15,7 @@ body{
 }
 /* header begin */
 .header{
-    background-image: url("../imgs/pic2.jpg");
+    background-image: url("../imgs/b01.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -179,5 +179,103 @@ span{
     text-align: center;
     margin: 20px 0 0;
     padding: 20px 55px 20px;
-    background-color: #f2f6f7;
+    background-color: #f2f2f2;
+}
+.button:hover{
+    background-color: #2aabd2;
+}
+/* done main */
+
+/* begin footer */
+.footer{
+    background-color: #0f0f0f;
+    color: white;
+    padding: 100px 0 40px;
+}
+.section .top{
+    padding: 10px 0 0;
+    line-height: 1.5;
+    color: #999999;
+}
+.section .top img{
+    margin-bottom: 30px;
+}
+.footer_infor{
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin: 0 0 18px;
+    padding: 0 0 32px;
+    text-align: left;
+    border-bottom: #999999 solid 1px;
+}
+.title1{
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 20px;
+}
+.footer-form__input{
+    background-color: #0f0f0f;
+    position: relative;
+}
+input:focus{
+    background-color: white;
+}
+.form-group >i{
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 235px;
+}
+.footer_content2{
+    color: #999999;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    padding: 10px 0 0 48px;
+}
+.title2{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 0 30px;
+    font-weight: 600;
+    color: white;
+}
+.list-content2 li{
+    margin-bottom: 10px;
+    list-style: none;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.footer_content4{
+    padding: 10px 0 0;
+    font-size: 16px;
+    color: #999999;
+}
+.footer-contact{
+    padding: 5px 0 22px;
+    border-bottom: #999999 solid 1px;
+}
+.footer-contact_item{
+    margin-bottom: 10px;
+}
+.contact{
+    color: #999999;
+}
+.phone-number{
+    font-size: 18px;
+    color: white;
+}
+.list-contact_icon{
+    list-style: none;
+    color: white;
+    margin: 25px 0;
+    display: inline-block;
+}
+.list-contact_icon li{
+    float: left;
+    padding-right: 33px;
+}
+.button-booking{
+    background-color: #0f0f0f;
+    border: 1px solid #fff;
+    padding: 15px 35px;
 }
