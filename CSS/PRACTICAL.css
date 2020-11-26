@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #8CBDE1;
+    font-family:'Arial',sans-serif;
+}
+.header{
+    background-color: #f2f2f2;
+}
+.top-image{
+    max-width: 100%;
+    height: 300px;
+    background-image: url("../imgs/cloud.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid white;
+}
+.header-title{
+    padding-top: 20px;
+    color: #FFFFFF;
+    padding-left: 10px;
+}
+.main{
+    background-color: #f2f2f2;
+}
+.col-md-3{
+    background-color: #AFD3EB;
+    border: 5px solid white
+}
+.col-md-6{
+    border: 5px solid white;
+    background-color: #e4eef5;
+}
+.Articles{
+    font-size: 21px;
+    color: #1D5174;
+    font-weight: bold;
+}
+.infor1{
+    margin-left: -8px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #1779CA;
+}
+.mid-title{
+    color: #0000FF;
+    font-size: 18px;
+    font-weight: bold;
+}
+.infor2{
+    font-size: 12px;
+    color: #000000;
+}
+.right-title{
+    font-size: 21px;
+    color: #1D5174;
+    font-weight: bold;
+    text-align: right;
+}
+.infor3{
+    text-align: right;
+    margin-right: -8px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #1779CA;
+}
+.panel1{
+    border-bottom: 5px solid white;
+    padding-right: 15px;
+}
+.under{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    color: #1779CA;
+}
